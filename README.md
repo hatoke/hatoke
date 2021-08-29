@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @berkay-uzn
+- 👀 I’m interested in Js, Flutter and Php
+- 🌱 I’m currently learning Flutter and Go
