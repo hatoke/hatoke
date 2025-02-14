@@ -14,7 +14,7 @@ A place where deadlines are imaginary, bugs are eternal, and half-finished proje
 - **Code?** Yes.  
 - **Good code?** That’s subjective.  
 - **Projects I started but never finished?** Plenty.  
-- **Hope for a better future?** Haha, good one.  
+- **Hope for a better future?** Haha, good one. I'm living in Turkey and just trying to survive somehow.  
 
 ## Fun Facts  
 - I could probably fix your bug, but will I? That’s a mystery.  
