@@ -1,5 +1,24 @@
-<h2 align="left">Hi, I’m Berkay!</h2>
+# Welcome to my GitHub page 🎉  
 
-###
+Welcome to my GitHub! A place where deadlines are imaginary, bugs are eternal, and half-finished projects collect dust like forgotten startup ideas.
 
-<p align="left">I’m a passionate frontend developer with a strong foundation in web technologies. My expertise lies in crafting responsive and dynamic user interfaces using frameworks and libraries such as Vue, React, and modern CSS. I enjoy exploring different technologies and continuously expanding my skill set.<br><br>Although my primary focus is on frontend development, I’m also keenly interested in backend and infrastructure technologies. I thrive on learning new tools and techniques, ensuring that I stay versatile and well-rounded in my field.<br><br>Thank you for visiting my GitHub profile!</p>
+## About Me  
+- 🚀 **Full-time developer, part-time existential crisis manager.**  
+- 🛠️ Building things that break, fixing things that shouldn’t exist,  
+  and questioning every career choice along the way.  
+- 📉 Proudly navigating the tech industry’s thrilling cycle of  
+  **"We're hiring!"** → **"Hiring freeze!"** → **"Mass layoffs!"**  
+- 💀 **Sleep? Stability? Health insurance? Never heard of them.**  
+
+## What You’ll Find Here  
+- **Code?** Yes.  
+- **Good code?** That’s subjective.  
+- **Projects I started but never finished?** Plenty.  
+- **Hope for a better future?** Haha, good one.  
+
+## Fun Facts  
+- I could probably fix your bug, but will I? That’s a mystery.  
+- Every commit message is a desperate cry for help.  
+- If a project breaks, just blame AI. That’s what CEOs do.  
+
+Enjoy your stay. Or don’t. I’m not your boss.  
