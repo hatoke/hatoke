@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 🎉  
 
-Welcome to my GitHub! A place where deadlines are imaginary, bugs are eternal, and half-finished projects collect dust like forgotten startup ideas.
+A place where deadlines are imaginary, bugs are eternal, and half-finished projects collect dust like forgotten startup ideas.
 
 ## About Me  
 - 🚀 **Full-time developer, part-time existential crisis manager.**  
